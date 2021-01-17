@@ -1,4 +1,4 @@
-# school-hacks ![SVE](sve.png)
+# school-hacks ![SVE](SVE.png)
 ## Co to jest?
 Hacki i strategie oszukiwania do najpopularniejszych platform edukacyjnych
 ## Dlaczego?
