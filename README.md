@@ -1,4 +1,4 @@
-# school-hacks ![SVE](SVE.png)
+# ![SVE](SVE.png)
 ## What is this?
 Hacks and cheats for most popular e-learning platforms
 ## Why?
