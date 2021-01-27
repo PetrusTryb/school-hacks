@@ -15,7 +15,7 @@ Niewykonalne. Odpowiedzi sprawdzane po stronie serwera.
 Niewykonalne. Brak podatności w mechanizmach sprawdzania sesji.
 
 ## Obejście zabezpieczeń
-Wideo do tego poradnika jest dostępne [tutaj](TestportalSecurityBypassPL.mp4).
+Wideo do tego poradnika jest dostępne [tutaj](SecurityBypassPL.mp4).
 - Użycie narzędzi deweloperskich Chrome (łatwa, ale działa tylko dla testów w przeglądarce)
     - Naciśnij F12 **zanim rozpoczniesz test**.
     - Wybierz więcej narzędzi -> renderowanie.
