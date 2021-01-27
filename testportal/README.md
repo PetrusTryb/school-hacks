@@ -15,6 +15,7 @@ Not posibble. All answers are checked server-side.
 Not posibble. Session management has no known vulnerabilities.
 
 ## Bypassing anti-cheat
+You can watch a video version of this tutorial [here](TestportalSecurityBypassEN.mp4).
 - Using Chrome DevTools (easy, but only if test is in browser)
     - Press F12 **before you start the test**.
     - Select more tools -> rendering.
